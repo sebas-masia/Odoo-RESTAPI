@@ -23,7 +23,7 @@ This project is a FastAPI-based API that allows interaction with the Odoo invent
 1. Clone the repository and navigate to the project directory:
 
     ```bash
-    git clone <REPO_URL>
+    git clone https://github.com/sebas-masia/Odoo-RESTAPI.git
     cd odoo_inventory_api
     ```
 
